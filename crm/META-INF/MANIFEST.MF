@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: test2
+Bundle-SymbolicName: crm
+Bundle-Version: 1.0.0.qualifier
+Export-Package: com.crm.settings.dao,
+ com.crm.settings.domain,
+ com.crm.settings.service,
+ com.crm.settings.service.impl,
+ com.crm.settings.web.controller,
+ com.crm.utils
